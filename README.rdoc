@@ -1,5 +1,5 @@
 == Test
 
-*Italic some text*
+*Italic some text
 
 some text
