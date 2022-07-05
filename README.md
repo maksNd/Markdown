@@ -1,11 +1,8 @@
-# Test
-## Test
-### Test
+# Самый большой заголовок
+## Средний заголовок
+### Маленький заголовок
 
-__qweqwe__
+**Жирный текст должен быть жирный**
 
-**qwe**
+*Italic text should be italic*
 
-*qweqweqwe*
-
-*qweqwe qweqwe
