@@ -1,6 +1,5 @@
 == Test
 
-_Italic_
-some text
+_Italic some text_
 
 some text
