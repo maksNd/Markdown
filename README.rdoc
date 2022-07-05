@@ -1,5 +1,5 @@
 == Test
 
-some **bold** text
+some **bold and smth** text
 
 some _italic and something else_ text
