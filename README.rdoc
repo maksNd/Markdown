@@ -2,4 +2,4 @@
 
 some **bold** text
 
-some text
+some *italic* text
