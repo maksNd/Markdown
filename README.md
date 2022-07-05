@@ -7,3 +7,4 @@
 
 *Italic text should be italic*
 
+[так можно натыкать ссылок](http://google.com)
